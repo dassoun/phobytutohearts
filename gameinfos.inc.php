@@ -22,7 +22,7 @@ $gameinfos = array(
 'artist' => 'Jane Doe',         
 
 // Year of FIRST publication of this game. Can be negative.
-'year' => 2000,                 
+'year' => 1850,                 
 
 // Game publisher (use empty string if there is no publisher)
 'publisher' => 'My Publishing Company',                     
@@ -31,14 +31,14 @@ $gameinfos = array(
 'publisher_website' => 'http://www.mypublishingcompany.com/',   
 
 // Board Game Geek ID of the publisher
-'publisher_bgg_id' => 1234,
+'publisher_bgg_id' => 171,
 
 // Board game geek ID of the game
-'bgg_id' => 115,
+'bgg_id' => 6887,
 
 
 // Players configuration that can be played (ex: 2 to 4 players)
-'players' => array( 2,3,4 ),    
+'players' => array( 4 ),    
 
 // Suggest players to play with this number of players. Must be null if there is no such advice, or if there is only one possible player configuration.
 'suggest_player_number' => null,
